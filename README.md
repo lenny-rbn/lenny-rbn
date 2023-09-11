@@ -1,4 +1,4 @@
-<img src="https://github.com/lenny-rbn/lenny-rbn/assets/121859898/0ccf87e8-e17f-4124-a7c7-45ca5f8c488f" style="width:300px;"/>
+<img src="https://github.com/lenny-rbn/lenny-rbn/assets/121859898/0ccf87e8-e17f-4124-a7c7-45ca5f8c488f" style="width:250px;"/>
 
 ## Hello everyone 👋
 ##### - 🌱 I’m currently learning Game Programming at Isart Digital
